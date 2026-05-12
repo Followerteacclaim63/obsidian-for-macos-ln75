@@ -1,4 +1,4 @@
-#  
+#  Obsidian for macOS elite Extension: database templates & widgets is the best Obsidian for macOS extension, featuring database templates and widgets. Safe, efficient, and optimized
 
 
 
